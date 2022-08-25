@@ -1,5 +1,5 @@
 package com.itsqm.acceso;
-
+//Liliana Ch.
 import com.itsqm.modelo.CBDD;
 import java.sql.ResultSet;
 
